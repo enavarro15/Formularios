@@ -1,0 +1,23 @@
+button.naranja{
+    background-color: orange;
+    color: white;
+}
+img.ing1{
+float: left;
+}
+header.ing2{
+    text-align: right;
+    background-color: white;
+}
+body.ing{
+    background-color: grey;
+}
+section.form1{
+    background-color: white;
+    display: block;
+}
+input.verdecillo{
+    background-color: green;
+    color: white;
+    size: 15ch;
+} 
